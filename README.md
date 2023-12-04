@@ -1,7 +1,7 @@
 # Breast Cancer Survival Analysis
 
 - **data wrangling**
-  - drop all missing values
+  - drop all missing values and Patient_ID column
   - add a column, compute the time since surgery to last visit
   - convert all String columns to numeric values
 
@@ -23,5 +23,5 @@
 - **Predictive Analytics**
   - SMOTE
   - Logistic Regression
-  - Random Forest
+  - SVM
 
